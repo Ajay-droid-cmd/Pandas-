@@ -1,0 +1,4 @@
+*.zip
+*.csv
+/archive/
+/winemag-data_first150k/
